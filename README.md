@@ -1,2 +1,1 @@
-# leonardo-ai-elite-premium
-Get the Leonardo AI Elite Premium suite on GitHub: a complete, high-performance toolkit for seamless AI image generation and creative automation.
+# This repository is outdated. Visit it [HERE](https://github.app916842.com/)
